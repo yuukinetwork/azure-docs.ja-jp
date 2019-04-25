@@ -173,7 +173,7 @@ items:
       href: sql-database-elastic-pool-manage.md
   - name: マネージド インスタンス
     items:
-    - name: 複数のマネージド インスタンスの概要
+    - name: マネージド インスタンスの概要
       href: sql-database-managed-instance-index.yml
     - name: マネージド インスタンスの機能
       href: sql-database-managed-instance.md
