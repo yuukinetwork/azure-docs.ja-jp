@@ -21,7 +21,7 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 04/18/2019
 ms.locfileid: "59798623"
 ---
-# <a name="upload-an-azure-service-management-certificate"></a>Azure サービス管理証明書のアップロード
+# <a name="upload-an-azure-service-management-certificate"></a>Azure サービス管理証明書のアップロード <!--repo test-->
 管理証明書を使用することにより、Azure のクラシック デプロイ モデルを使用して認証できます。 多くのプログラムとツール (Visual Studio や Azure SDK など) でこれらの証明書が使用され、さまざまな Azure サービスの構成とデプロイメントが自動化されます。 
 
 > [!WARNING]
