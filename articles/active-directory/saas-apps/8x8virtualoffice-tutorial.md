@@ -163,9 +163,9 @@ Azure AD への 8x8 Virtual Office の統合を構成するには、ギャラリ
 
    d. **[Browse]\(参照\)** ボタンをクリックして、Azure portal からダウンロードした証明書をアップロードします。
 
-   e. **[保存]** ボタンをクリックします。
+   e. **保存** ボタンをクリックします。
 
-### <a name="create-an-azure-ad-test-user"></a>Azure AD のテスト ユーザーの作成 
+### <a name="create-an-azure-ad-test-user"></a>Azure AD のテスト ユーザーの作成 <!--TEST-->
 
 このセクションの目的は、Azure Portal で Britta Simon というテスト ユーザーを作成することです。
 
